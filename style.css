@@ -1,0 +1,174 @@
+body{
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  background: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+
+figure{
+    float: right;
+    display: table;
+    Margin:0;
+
+}
+
+
+a {
+  text-decoration: none;
+  font-size: 12px;
+  color: #fff;
+  font-variant: small-caps;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+
+figcaption{
+  display: table-caption;
+  caption-side: bottom;
+  Margin:0;
+  padding-top: 0;
+}
+h5{
+  margin-top: 0;
+
+  padding: 0;
+
+}
+
+h3 {
+  letter-spacing: 1.5px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+#portret1{
+  width: 180px;
+  aspect-ratio: auto 180 / 196;
+  height: 196px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+
+#portret2{
+  width: 223px;
+  aspect-ratio: auto 223 / 162;
+  height: 162px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+
+#portret3{
+  width: 222px;
+  aspect-ratio: auto 222 / 133;
+  height: 133px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+#portret4{
+  width: 220px;
+  aspect-ratio: auto 220 / 220;
+  height: 220px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+#portret5{
+  width: 222px;
+  aspect-ratio: auto 222 / 133;
+  height: 133px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+
+#portret6{
+  width: 222px;
+  aspect-ratio: auto 222 / 133;
+  height: 133px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+#portret7{
+  width: 218px;
+  aspect-ratio: auto 218 / 218;
+  height: 218px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+
+#portret8{
+  width: 150px;
+  aspect-ratio: auto 150 / 150;
+  height: 150px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+
+#portret9{
+  width: 180px;
+  aspect-ratio: auto 180 / 130;
+  height: 130px;
+  float: right;
+  Margin:0;
+  padding: 0;
+}
+
+table {
+  width: 100%;
+  border: 3px solid #161616;
+  border-collapse: collapse;
+  color: #8e8e8e;
+  text-align: center;
+  font-family: Roboto, Poppins, Arial, Helvetica, sans-serif;
+}
+
+th,
+td {
+  border: 2px solid #202020;
+  padding: 5px;
+}
+th {
+  color: #fd8165;
+}
+caption {
+  color: #fff;
+  font-weight: 700;
+
+  margin: 30px 0px;
+}
+
+ul li {
+  padding-left: 32px;
+  background-image: url(triangle.png);
+  background-repeat: no-repeat;
+}
+ul {
+  padding-left: 32px;
+  list-style-type: none;
+}
+strong {
+  color: #fd8165;
+}
